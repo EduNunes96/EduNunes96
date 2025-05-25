@@ -1,7 +1,7 @@
 <h1> BEM VINDO AO PERFIL DO EDU </h1>
 <div>
 <h2>Estudante de Computação, amante dos jogos e desenhos animados</h2>
-<h2>Àrea de trabalho ou/e estudo </h2>
+<h2>Área de trabalho ou/e estudo </h2>
 </div>
 <div> 
 <span>
